@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thedataguy18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedataguy18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaqi khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaqi khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/zaqi-khan-84a346231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zaqi-khan-84a346231/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzaqi&show_icons=true&locale=en&layout=compact" alt="mrzaqi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzaqi&show_icons=true&locale=en" alt="mrzaqi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzaqi&" alt="mrzaqi" /></p>
